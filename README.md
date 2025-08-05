@@ -8,8 +8,7 @@ and a 512x512 pixels
 Augmented-INbreast-ImageMask-Dataset.zip</a>.
 which was derived by us from <br><br>
 <b>INBREAST-SELECTED-IMGS</b> and <b>INBREAST-SELECTED-MSKS</b> <a href="https://github.com/pablogiaccaglia/Breast-Cancer-Segmentation-Datasets/blob/master/README.md#INbreast">
-INbreast  
-</a> 
+INbreast</a> 
 <br><br>
 <a href="https://github.com/pablogiaccaglia/Breast-Cancer-Segmentation-Datasets/blob/master/README.md">
 <b>
