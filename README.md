@@ -283,8 +283,8 @@ The loss (categorical_crossentropy) to this INbreast/test was low and dice_coef_
 high as shown below.
 <br>
 <pre>
-categorical_crossentropy,0.0895
-dice_coef_multiclass,0.9529
+categorical_crossentropy,0.0117
+dice_coef_multiclass,0.9969
 </pre>
 <br>
 
